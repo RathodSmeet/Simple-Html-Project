@@ -1,2 +1,2 @@
 # Simple-Html-Project
-In this I have made a site using only html.
+In this Project, I have made a site using only html.
